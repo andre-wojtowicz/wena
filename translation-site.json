@@ -1,0 +1,534 @@
+{
+    "languages": ["id", "en", "pl"],
+    "translation": [
+    {
+        "id": "language-name",
+        "en": "English",
+        "pl": "Polski"
+    },
+    {
+        "id": "page-title",
+        "en": "Research Evaluation of Faculty",
+        "pl": "Wydziałowa Ewaluacja Nauki"
+    },
+    {
+        "id": "tabname-pbn",
+        "en": "Polish Scientific Bibliography",
+        "pl": "Polska Bibliografia Naukowa"
+    },
+    {
+        "id": "tabname-pbn-summary",
+        "en": "Summary",
+        "pl": "Podsumowanie"
+    },
+    {
+        "id": "tabname-pbn-articles",
+        "en": "Articles",
+        "pl": "Artykuły"
+    },
+    {
+        "id": "tabname-pbn-chapters",
+        "en": "Chapters",
+        "pl": "Rozdziały"
+    },
+    {
+        "id": "tabname-pbn-books",
+        "en": "Books",
+        "pl": "Monografie"
+    },
+    {
+        "id": "tabname-scival",
+        "en": "SciVal (Scopus)",
+        "pl": "SciVal (Scopus)"
+    },
+    {
+        "id": "tabname-scival-reports",
+        "en": "Reports",
+        "pl": "Raporty"
+    },
+    {
+        "id": "tabname-scival-visualizations",
+        "en": "Selected visualizations",
+        "pl": "Wybrane wizualizacje"
+    },
+    {
+        "id": "tabname-scival-profiles",
+        "en": "Authors' profiles",
+        "pl": "Profile autorów"
+    },
+    {
+        "id": "tabname-site-information",
+        "en": "Site information",
+        "pl": "Informacje o stronie"
+    },
+    {
+        "id": "sidebar-git-lastupdate",
+        "en": "Last update:",
+        "pl": "Ostatnia aktualizacja:"
+    },
+    {
+        "id": "sidebar-git-host",
+        "en": "GitHub",
+        "pl": "GitHub"
+    },
+    {
+        "id": "group-faculty",
+        "en": "Faculty",
+        "pl": "wydział"
+    },
+    {
+        "id": "discipline-mathematics",
+        "en": "Mathematics",
+        "pl": "matematyka"
+    },
+    {
+        "id": "discipline-computer-science",
+        "en": "Computer Science",
+        "pl": "informatyka"
+    },
+    {
+        "id": "common-no-data-to-plot",
+        "en": "No data to plot",
+        "pl": "Brak danych do wyświetlenia"
+    },
+    {
+        "id": "common-h-index",
+        "en": "h-index",
+        "pl": "h-index"
+    },
+    {
+        "id": "common-scopus-db-snapshot",
+        "en": "Scopus database snapshot:",
+        "pl": "Stan bazy Scopus:"
+    },
+    {
+        "id": "common-note-multiple-authors",
+        "en": "Note: some publications have authors from different research groups and disciplines",
+        "pl": "Uwaga: niektóre publikacje mają autorów z różnych zespołów badawczych i dyscyplin"
+    },
+    {
+        "id": "common-self-citations",
+        "en": "Data include self-citations",
+        "pl": "Dane uwzględniają autocytowania"
+    },
+    {
+        "id": "top-box-all-disciplines",
+        "en": "All",
+        "pl": "Wszystkie"
+    },
+    {
+        "id": "top-box-mathematics",
+        "en": "Mathematics",
+        "pl": "Matematyka"
+    },
+    {
+        "id": "top-box-computer-science",
+        "en": "Computer Science",
+        "pl": "Informatyka"
+    },
+    {
+        "id": "top-box-points-short",
+        "en": " pts",
+        "pl": " pkt."
+    },
+    {
+        "id": "stats-no-of-articles",
+        "en": "No. of articles",
+        "pl": "Liczba artykułów"
+    },
+    {
+        "id": "stats-points-sum",
+        "en": "Sum of points",
+        "pl": "Suma punktów"
+    },
+    {
+        "id": "stats-points-mean",
+        "en": "Mean of points",
+        "pl": "Średnia punktów"
+    },
+    {
+        "id": "stats-points-median",
+        "en": "Median of points",
+        "pl": "Mediana punktów"
+    },
+    {
+        "id": "stats-points-max",
+        "en": "Maximum of points",
+        "pl": "Maksimum punktów"
+    },
+    {
+        "id": "stats-points-min",
+        "en": "Minimum of points",
+        "pl": "Minimum punktów"
+    },
+    {
+        "id": "top-box-disciplines",
+        "en": "Disciplines:",
+        "pl": "Dyscypliny:"
+    },
+    {
+        "id": "top-box-conference-proceedings",
+        "en": "Conference proceedings",
+        "pl": "Materiały pokonferencyjne"
+    },
+    {
+        "id": "top-box-research-groups",
+        "en": "Research groups",
+        "pl": "Zespoły badawcze"
+    },
+    {
+        "id": "top-box-persons",
+        "en": "Persons",
+        "pl": "Osoby"
+    },
+    {
+        "id": "top-box-list",
+        "en": "List",
+        "pl": "Lista"
+    },
+    {
+        "id": "top-box-points",
+        "en": "Points",
+        "pl": "Punkty"
+    },
+    {
+        "id": "top-box-only-affiliated",
+        "en": "Affiliated works",
+        "pl": "Afiliowane prace"
+    },
+    {
+        "id": "top-box-employed workers",
+        "en": "Employed workers",
+        "pl": "Zatrudnieni pracownicy"
+    },
+    {
+        "id": "top-box-authors",
+        "en": "Authors",
+        "pl": "Autorzy"
+    },
+    {
+        "id": "top-box-editors",
+        "en": "Editors",
+        "pl": "Redaktorzy"
+    },
+    {
+        "id": "top-box-journal-list-a",
+        "en": "A",
+        "pl": "A"
+    },
+    {
+        "id": "top-box-journal-list-b",
+        "en": "B",
+        "pl": "B"
+    },
+    {
+        "id": "top-box-journal-list-c",
+        "en": "C",
+        "pl": "C"
+    },
+    {
+        "id": "top-box-journal-list-na",
+        "en": "n/a",
+        "pl": "brak"
+    },
+    {
+        "id": "picker-disciplines-nothing-selected",
+        "en": "Select disciplines",
+        "pl": "Wybierz dyscypliny"
+    },
+    {
+        "id": "button-show-list",
+        "en": "Show list",
+        "pl": "Pokaż listę"
+    },
+    {
+        "id": "plot-journal-points-na",
+        "en": "n/a",
+        "pl": "brak"
+    },
+    {
+        "id": "label-mshe-list",
+        "en": "MSHE list: ",
+        "pl": "Lista MNiSW: "
+    },
+    {
+        "id": "dt-language-url",
+        "en": "/dt-english.json",
+        "pl": "/dt-polish.json"
+    },
+    {
+        "id": "dt-no-number",
+        "en": "No.",
+        "pl": "Lp."
+    },
+    {
+        "id": "dt-title",
+        "en": "Title",
+        "pl": "Tytuł"
+    },
+    {
+        "id": "dt-author",
+        "en": "Author",
+        "pl": "Autor"
+    },
+    {
+        "id": "dt-editor",
+        "en": "Editor",
+        "pl": "Redaktor"
+    },
+    {
+        "id": "dt-research-group",
+        "en": "Research group",
+        "pl": "Zespół badawczy"
+    },
+    {
+        "id": "dt-discipline",
+        "en": "Discipline",
+        "pl": "Dyscyplina"
+    },
+    {
+        "id": "dt-disciplines",
+        "en": "Disciplines",
+        "pl": "Dyscypliny"
+    },
+    {
+        "id": "dt-citations",
+        "en": "Citations",
+        "pl": "Cytowania"
+    },
+    {
+        "id": "dt-publications",
+        "en": "Publications",
+        "pl": "Publikacje"
+    },
+    {
+        "id": "dt-scopus-id",
+        "en": "Scopus ID",
+        "pl": "Scopus ID"
+    },
+    {
+        "id": "dt-h-index",
+        "en": "h-index",
+        "pl": "h-index"
+    },
+    {
+        "id": "dt-year",
+        "en": "Year",
+        "pl": "Rok"
+    },
+    {
+        "id": "dt-points-short",
+        "en": "Pts",
+        "pl": "Pkt."
+    },
+    {
+        "id": "dt-journal-title",
+        "en": "Journal",
+        "pl": "Czasopismo"
+    },
+    {
+        "id": "dt-journal-ministerial-list",
+        "en": "List",
+        "pl": "Lista"
+    },
+    {
+        "id": "dt-is-conference-short",
+        "en": "Conf.",
+        "pl": "Konf."
+    },
+    {
+        "id": "dt-author-affiliated-short",
+        "en": "Affil.",
+        "pl": "Afil."
+    },
+    {
+        "id": "dt-author-employed-short",
+        "en": "Empl.",
+        "pl": "Zatr."
+    },
+    {
+        "id": "dt-author-short",
+        "en": "Auth.",
+        "pl": "Aut."
+    },
+    {
+        "id": "dt-editor-short",
+        "en": "Edit.",
+        "pl": "Red."
+    },
+    {
+        "id": "pbn-summary-page-title-1",
+        "en": "Polish Scientific Bibliography – summary since",
+        "pl": "Polska Bibliografia Naukowa – podsumowanie od"
+    },
+    {
+        "id": "pbn-summary-page-title-2",
+        "en": "",
+        "pl": "r."
+    },
+    {
+        "id": "pbn-summary-page-title-3",
+        "en": "Statistics for Faculty of Mathematics and Computer Science AMU",
+        "pl": "Statystyki Wydziału Matematyki i Informatyki UAM"
+    },
+    {
+        "id": "pbn-summary-vb-authors",
+        "en": "authors",
+        "pl": "autorzy"
+    },
+    {
+        "id": "pbn-summary-vb-articles",
+        "en": "articles",
+        "pl": "artykuły"
+    },
+    {
+        "id": "pbn-summary-vb-chapters",
+        "en": "chapters",
+        "pl": "rozdziały"
+    },
+    {
+        "id": "pbn-summary-vb-books",
+        "en": "books",
+        "pl": "monografie"
+    },
+    {
+        "id": "pbn-summary-vb-points",
+        "en": "points for articles",
+        "pl": "punkty za artykuły"
+    },
+    {
+        "id": "pbn-summary-vb-pbn-state",
+        "en": "PSB database snapshot",
+        "pl": "stan bazy PBN"
+    },
+    {
+        "id": "pbn-summary-vb-pbn-journal-stats-a",
+        "en": "articles – list A",
+        "pl": "artykuły – lista A"
+    },
+    {
+        "id": "pbn-summary-vb-pbn-journal-stats-b",
+        "en": "articles – list B",
+        "pl": "artykuły – lista B"
+    },
+    {
+        "id": "pbn-summary-vb-pbn-journal-stats-c",
+        "en": "articles – list C",
+        "pl": "artykuły – lista C"
+    },
+    {
+        "id": "scival-reports-page-title",
+        "en": "SciVal (Scopus) – reports",
+        "pl": "SciVal (Scopus) – raporty"
+    },
+    {
+        "id": "scival-reports-amu-m-cs",
+        "en": "AMU FMCS (Mathematics and Computer Science)",
+        "pl": "UAM WMI (matematyka i informatyka)"
+    },
+    {
+        "id": "scival-reports-amu-m",
+        "en": "AMU FMCS (Mathematics)",
+        "pl": "UAM WMI (matematyka)"
+    },
+    {
+        "id": "scival-reports-amu-cs",
+        "en": "AMU FMCS (Computer Science)",
+        "pl": "UAM WMI (informatyka)"
+    },
+    {
+        "id": "scival-reports-put-fcs",
+        "en": "PUT FCS",
+        "pl": "PP WI"
+    },
+    {
+        "id": "scival-reports-put-fcs-amu-fmcs",
+        "en": "PUT FCS & AMU FMCS (field: Computer Science)",
+        "pl": "PP WI & UAM WMI (dyscyplina: Computer Science)"
+    },
+    {
+        "id": "scival-reports-put-fcs-ics-amu-fmcs-cs",
+        "en": "PUT FCS ICS & AMU FMCS CS (field: Computer Science)",
+        "pl": "PP WI II & UAM WMI Inf. (dyscyplina: Computer Science)"
+    },
+    {
+        "id": "scival-visualizations-page-title",
+        "en": "Citations and publications between 2015 and 2018",
+        "pl": "Cytowania i liczba publikacji w latach 2015-2018"
+    },
+    {
+        "id": "scival-profiles-page-title",
+        "en": "Authors' profiles: Scopus database",
+        "pl": "Profile autorów: baza Scopus"
+    },
+    {
+        "id": "site-information-page-title",
+        "en": "Site information",
+        "pl": "Informacje o stronie"
+    },
+    {
+        "id": "site-information-text-1",
+        "en": "The site was created as a result of the amendment to ",
+        "pl": "Strona powstała w wyniku nowelizacji ustawy "
+    },
+    {
+        "id": "site-information-text-2",
+        "en": "the Law on Higher Education and Science",
+        "pl": "Prawo o szkolnictwie wyższym i nauce"
+    },
+    {
+        "id": "site-information-text-3",
+        "en": ", adopted in 2018. The Law introduces a new division of disciplines and a method for evaluating scientific achievements. On the basis of publicly available data from ",
+        "pl": ", uchwalonej w 2018 r. Ustawa wprowadza nowy podział dyscyplin i metodę ewaluacji osiągnięć naukowych. Na podstawie ogólnodostępnych danych z "
+    },
+    {
+        "id": "site-information-text-4",
+        "en": "the Reporting Module of Polish Scientific Bibliography (PSB)",
+        "pl": "Modułu Sprawozdawczego Polskiej Bibliografii Naukowej (PBN)"
+    },
+    {
+        "id": "site-information-text-5",
+        "en": " and ",
+        "pl": " oraz "
+    },
+    {
+        "id": "site-information-text-6",
+        "en": "Scopus (SciVal)",
+        "pl": "Scopus (SciVal)"
+    },
+    {
+        "id": "site-information-text-7",
+        "en": " one can try to:",
+        "pl": " można spróbować:"
+    },
+    {
+        "id": "site-information-text-8",
+        "en": "assess the condition of our Computer Science in combination with Mathematics,",
+        "pl": "ocenić kondycję naszej informatyki w zestawieniu z matematyką,"
+    },
+    {
+        "id": "site-information-text-9",
+        "en": "compare the state of our Computer Science with that practiced at the Faculty of Computer Science at the Poznan University of Technology.",
+        "pl": "porównać stan naszej informatyki z tą uprawianą na Wydziale Informatyki Politechniki Poznańskiej."
+    },
+    {
+        "id": "site-information-text-10",
+        "en": "The division into discipline carried out here is arbitrary, made in relation to the bets. All employees and PhD students (former and present) appearing in PBN and Scopus databases are included. Changes in names over the years are also included. Changes of employees and PhD students between sites are not recorded. All employees are assigned to currently existing plants.",
+        "pl": "Przeprowadzony tutaj podział na dyscypliny jest arbitralny, dokonany względem zakładów. Ujęci są wszyscy pracownicy i doktoranci (byli i obecni) występujący w bazach PBN i Scopus. Uwzględnione są również zmiany nazwisk na przestrzeni lat. Zmiany pracowników i doktorantów pomiędzy zakładami nie są odnotowane. Wszyscy pracownicy są przypisani do obecnie istniejących zakładów."
+    },
+    {
+        "id": "site-information-text-11",
+        "en": "The data in the PSB contain errors (e.g. typos in the names, no points assigned to parts of the articles, etc.), which in most cases have been corrected.",
+        "pl": "Dane w PBN zawierają błędy (np. literówki w nazwiskach, brak przypisanych punktów do części artykułów, itp.), które w większości przypadków zostały poprawione."
+    },
+    {
+        "id": "site-information-text-12",
+        "en": "The data and reports on this page are not updated on a regular basis. On the basis of the listings given here, conclusions about the overall work of individual employees and individual plants can not be drawn, because these data do not take into account many other factors such as research grants, organization of conferences, tasks related to the position held, etc. Dry data does not reflect perform the merits of individual results and achieve. MathSciNet database is not included here, because it does not provide any API to download data, and this page is primarily to focus on Computer Science.",
+        "pl": "Dane i raporty na tej stronie nie są aktualizowane na bieżąco. Na podstawie umieszczonych tutaj zestawień nie można wyciągać wniosków o całościowej pracy indywidualnych pracowników i poszczególnych zakładów, ponieważ dane te nie uwzględniają wielu innych czynników takich jak np. granty naukowe, organizacja konferencji, realizacja zadań związanych z zajmowanym stanowiskiem, itp. Suche dane nie odzwierciedlają w pełni merytoryki poszczególnych wyników i osiągnieć. Baza MathSciNet nie jest tutaj uwzględniona, ponieważ nie udostępnia ona żadnego API do pobierania danych, a ponadto strona ta ma się przede wszystkim skupić się na informatyce."
+    },
+    {
+        "id": "site-information-text-13",
+        "en": "Andrzej Wójtowicz, PhD",
+        "pl": "dr Andrzej Wójtowicz"
+    }
+]}

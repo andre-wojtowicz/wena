@@ -1,0 +1,123 @@
+.main-header .logo
+{
+  font-weight: bold;
+  font-size: 14px;
+}
+
+.content
+{
+    max-width: 1200px; 
+    margin: auto;
+}
+
+.sidebar-menu > li > a
+{
+    padding-left: 5px !important;
+}
+
+.form-group
+{
+    margin-bottom: 0px !important;
+}
+
+.last-update
+{
+    text-align: center;
+    color: #64777F;
+    margin-top: 15px;
+    font-size: small;
+    margin-left: -4px !important;
+}
+
+ul.treeview-menu
+{
+    padding-left: 5px !important;
+}
+
+span.icon
+{
+    padding: 15px;
+    margin-right: 5px;
+}
+
+span.icon-pbn
+{
+    background:url(images/pbn.svg) left top;
+    background-size: 70%;
+    background-repeat: no-repeat;
+    background-position: center;
+}
+
+span.icon-scival
+{
+    background:url(images/scival.svg) left top;
+    background-size: 70%;
+    background-repeat: no-repeat;
+    background-position: center;
+}
+
+span.icon-info
+{
+    background:url(images/info.svg) left top;
+    background-size: 70%;
+    background-repeat: no-repeat;
+    background-position: center;
+}
+
+span.logo
+{
+    padding: 20px;
+    margin-right: 5px;
+}
+
+span.logo-pbn
+{
+    background:url(images/pbn-color.svg) left top;
+    background-size: 80%;
+    background-repeat: no-repeat;
+    background-position: center;
+}
+
+span.logo-scival
+{
+    background:url(images/scival-color.svg) left top;
+    background-size: 80%;
+    background-repeat: no-repeat;
+    background-position: center;
+}
+
+table.dataTable.hover tbody tr:hover, table.dataTable.display tbody tr:hover
+{
+    background-color: orange !important;
+}
+
+span.lang-icon
+{
+    padding: 0px 14px 0px 9px;
+	margin-right: 5px;
+	border-width: 1px;
+	border-color: brown;
+	border-style: solid;
+}
+
+span.lang-icon-en
+{
+    background:url(images/lang-en.svg) left top;
+    background-size: 100%;
+    background-repeat: no-repeat;
+    background-position: center;
+}
+
+span.lang-icon-pl
+{
+    background:url(images/lang-pl.svg) left top;
+    background-size: 100%;
+    background-repeat: no-repeat;
+    background-position: center;
+}
+
+.navbar-custom-menu > .navbar-nav > li > .dropdown-menu
+{
+	width: auto;
+	min-width: auto;
+}

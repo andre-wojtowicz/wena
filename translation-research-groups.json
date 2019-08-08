@@ -1,0 +1,101 @@
+{
+    "languages": [ "pl", "en" ],
+    "translation": [
+    {
+        "pl" : "Wydział Matematyki i Informatyki UAM",
+        "en" : "Faculty of Mathematics and Computer Science AMU"
+    },
+    {
+        "pl" : "Informatyka WMI UAM",
+        "en" : "Computer Science FMCS AMU"
+    },
+    {
+        "pl" : "Matematyka WMI UAM",
+        "en" : "Mathematics FMCS AMU"
+    },
+    {
+        "pl" : "Pracownia Ekonometrii Finansowej",
+        "en" : "Laboratory of Financial Econometrics"
+    },
+    {
+        "pl" : "Zakład Algebry i Teorii Liczb",
+        "en" : "Department of Algebra and Number Theory"
+    },
+    {
+        "pl" : "Zakład Algorytmiki i Metod Numerycznych",
+        "en" : "Department of Algorithmics and Numerical Methods"
+    },
+    {
+        "pl" : "Zakład Analizy Funkcjonalnej",
+        "en" : "Department of Functional Analysis"
+    },
+    {
+        "pl" : "Zakład Analizy Matematycznej",
+        "en" : "Department of Mathematical Analysis"
+    },
+    {
+        "pl" : "Zakład Arytmetycznej Geometrii Algebraicznej",
+        "en" : "Department of Arithmetic Algebraic Geometry"
+    },
+    {
+        "pl" : "Zakład Dydaktyki Matematyki",
+        "en" : "Department of Didactics of Mathematics"
+    },
+    {
+        "pl" : "Zakład Geometrii Algebraicznej i Diofantycznej",
+        "en" : "Department of Algebraic and Diophantic Geometry"
+    },
+    {
+        "pl" : "Zakład Geometrii i Topologii",
+        "en" : "Department of Geometry and Topology"
+    },
+    {
+        "pl" : "Zakład Lingwistyki Informatycznej i Sztucznej Inteligencji",
+        "en" : "Department of Information Linguistics and Artificial Intelligence"
+    },
+    {
+        "pl" : "Zakład Logiki Matematycznej",
+        "en" : "Department of Mathematical Logic"
+    },
+    {
+        "pl" : "Zakład Matematyki Dyskretnej",
+        "en" : "Department of Discrete Mathematics"
+    },
+    {
+        "pl" : "Zakład Metod Przetwarzania Informacji Nieprecyzyjnej",
+        "en" : "Department of Imprecise Information Processing Methods"
+    },
+    {
+        "pl" : "Zakład Optymalizacji i Sterowania",
+        "en" : "Department of Optimization and Control"
+    },
+    {
+        "pl" : "Zakład Przestrzeni Funkcyjnych i Równań Różniczkowych",
+        "en" : "Department of Functional Spaces and Differential Equations"
+    },
+    {
+        "pl" : "Zakład Przetwarzania Języka Naturalnego",
+        "en" : "Department of Natural Language Processing"
+    },
+    {
+        "pl" : "Zakład Rachunku Prawdopodobieństwa i Statystyki Matematycznej",
+        "en" : "Department of Probability and Mathematical Statistics"
+    },
+    {
+        "pl" : "Zakład Teorii Algorytmów i Bezpieczeństwa Danych",
+        "en" : "Department of Theory of Algorithms and Data Security"
+    },
+    {
+        "pl" : "Zakład Teorii Funkcji Rzeczywistych",
+        "en" : "Department of Theory of Real-valued Functions"
+    },
+    {
+        "pl" : "Zakład Teorii Interpolacji i Aproksymacji",
+        "en" : "Department of Theory of Interpolation and Approximation"
+    },
+    {
+        "pl" : "Zakład Teorii Obliczeń",
+        "en" : "Department of Theory of Computation"
+    }
+]
+}

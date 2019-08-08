@@ -1,0 +1,181 @@
+{
+    "languages" : [ "pl", "en" ],
+    "translation" : [
+    {
+        "pl" : "archeologia",
+        "en" : "Archeology"
+    },
+    {
+        "pl" : "architektura i urbanistyka",
+        "en" : "Architecture and Urban Planning"
+    },
+    {
+        "pl" : "astronomia",
+        "en" : "Astronomy"
+    },
+    {
+        "pl" : "automatyka, elektronika i elektrotechnika",
+        "en" : "Automation, Electronics and Electrical Engineering"
+    },
+    {
+        "pl" : "ekonomia i finanse",
+        "en" : "Economics and Finance"
+    },
+    {
+        "pl" : "filozofia",
+        "en" : "Philosophy"
+    },
+    {
+        "pl" : "geografia społeczno-ekonomiczna i gospodarka przestrzenna",
+        "en" : "Socio-economic Geography and Spatial Economy"
+    },
+    {
+        "pl" : "historia",
+        "en" : "History"
+    },
+    {
+        "pl" : "informatyka",
+        "en" : "Computer Science"
+    },
+    {
+        "pl" : "informatyka techniczna i telekomunikacja",
+        "en" : "Technical Computer Science and Telecommunications"
+    },
+    {
+        "pl" : "inżynieria biomedyczna",
+        "en" : "Biomedical Engineering"
+    },
+    {
+        "pl" : "inżynieria chemiczna",
+        "en" : "Chemical Engineering"
+    },
+    {
+        "pl" : "inżynieria lądowa i transport",
+        "en" : "Civil Engineering and Transport"
+    },
+    {
+        "pl" : "inżynieria materiałowa",
+        "en" : "Material Engineering"
+    },
+    {
+        "pl" : "inżynieria mechaniczna",
+        "en" : "Mechanical Engineering"
+    },
+    {
+        "pl" : "inżynieria środowiska, górnictwo i energetyka",
+        "en" : "Environmental Engineering, Mining and Energy"
+    },
+    {
+        "pl" : "językoznawstwo",
+        "en" : "Linguistics"
+    },
+    {
+        "pl" : "literaturoznawstwo",
+        "en" : "Literature"
+    },
+    {
+        "pl" : "matematyka",
+        "en" : "Mathematics"
+    },
+    {
+        "pl" : "nauki biologiczne",
+        "en" : "Biological Sciences"
+    },
+    {
+        "pl" : "nauki chemiczne",
+        "en" : "Chemical Sciences"
+    },
+    {
+        "pl" : "nauki farmaceutyczne",
+        "en" : "Pharmaceutical Sciences"
+    },
+    {
+        "pl" : "nauki fizyczne",
+        "en" : "Physical Sciences"
+    },
+    {
+        "pl" : "nauki leśne",
+        "en" : "Forestry Sciences"
+    },
+    {
+        "pl" : "nauki medyczne",
+        "en" : "Medical Sciences"
+    },
+    {
+        "pl" : "nauki o Ziemi i środowisku",
+        "en" : "Earth and Environment Sciences"
+    },
+    {
+        "pl" : "nauki o bezpieczeństwie",
+        "en" : "Security Sciences"
+    },
+    {
+        "pl" : "nauki o komunikacji społecznej i mediach",
+        "en" : "Social Communication and Media Sciences"
+    },
+    {
+        "pl" : "nauki o kulturze fizycznej",
+        "en" : "Physical Culture Science"
+    },
+    {
+        "pl" : "nauki o kulturze i religii",
+        "en" : "Culture and Religion Sciences"
+    },
+    {
+        "pl" : "nauki o polityce i administracji",
+        "en" : "Politics and Administration Sciences"
+    },
+    {
+        "pl" : "nauki o sztuce",
+        "en" : "Art Sciences"
+    },
+    {
+        "pl" : "nauki o zarządzaniu i jakości",
+        "en" : "Management and Quality Sciences"
+    },
+    {
+        "pl" : "nauki o zdrowiu",
+        "en" : "Health Sciences"
+    },
+    {
+        "pl" : "nauki prawne",
+        "en" : "Legal Sciences"
+    },
+    {
+        "pl" : "nauki socjologiczne",
+        "en" : "Sociological Sciences"
+    },
+    {
+        "pl" : "nauki teologiczne",
+        "en" : "Theological Sciences"
+    },
+    {
+        "pl" : "pedagogika",
+        "en" : "Pedagogy"
+    },
+    {
+        "pl" : "prawo kanoniczne",
+        "en" : "Canonic Law"
+    },
+    {
+        "pl" : "psychologia",
+        "en" : "Psychology"
+    },
+    {
+        "pl" : "rolnictwo i ogrodnictwo",
+        "en" : "Agriculture and Gardening"
+    },
+    {
+        "pl" : "technologia żywności i żywienia",
+        "en" : "Food and Nutrition Technology"
+    },
+    {
+        "pl" : "weterynaria",
+        "en" : "Veterinary Medicine"
+    },
+    {
+        "pl" : "zootechnika i rybactwo",
+        "en" : "Zootechnics and Fishing"
+    }
+]
+}

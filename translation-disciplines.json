@@ -1,0 +1,13 @@
+{
+    "languages": [ "pl", "en" ],
+    "translation": [
+    {
+        "pl" : "matematyka",
+        "en" : "Mathematics"
+    },
+    {
+        "pl" : "informatyka",
+        "en" : "Computer Science"
+    }
+]
+}
