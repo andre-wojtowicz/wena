@@ -1,13 +1,16 @@
 dashboardPage(
     title = "WENA",
     skin = "red",
+    # hide header and sidebar by default  (DOMContentLoaded event bug)
     dashboardHeader(title = textOutput("header_title"),
                     titleWidth = 275,
-                    mod_menu_language_ui("menu_language")
+                    mod_menu_language_ui("menu_language"),
+                    disable = TRUE
     ),
     dashboardSidebar(
         width = 275,
-        mod_menu_sidebar_ui("menu_sidebar")
+        mod_menu_sidebar_ui("menu_sidebar"),
+        disable = TRUE
     ),
     dashboardBody(
         use_waiter(),

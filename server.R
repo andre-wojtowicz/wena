@@ -38,7 +38,13 @@ shinyServer(function(input, output, session)
         callModule(mod_menu_language_logic, "menu_language", i18n)
         callModule(mod_menu_sidebar_logic, "menu_sidebar", i18n)
 
-        hide_waiter() # show content when page has loaded
+        # show content when page has loaded
+
+        shinyjs::runjs("document.getElementsByClassName('main-header')[0].style.display = 'inherit';")
+        shinyjs::runjs("document.getElementsByClassName('sidebar-toggle')[0].style.display = 'inherit';")
+        shinyjs::removeClass(selector = "body", class = "sidebar-collapse")
+
+        hide_waiter()
     })
 
     # language menu - click for language change --------------------------------
