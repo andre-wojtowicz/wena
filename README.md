@@ -3,7 +3,7 @@
 This R Shiny app:
 
 1. summarizes publication data for Faculty of Mathematics and Computer Science, Adam Mickiewicz University in Poznań gathered from:
-   1. [the Reporting Module of Polish Scientific Bibliography](https://pbn.nauka.gov.pl/pbn-report-web/) (preprocessed by [export cleaner](https://github.com/andre-wojtowicz/pbn-export-cleaner)),
+   1. [Reporting Module of Polish Scientific Bibliography](https://pbn.nauka.gov.pl/pbn-report-web/) (preprocessed by [export cleaner](https://github.com/andre-wojtowicz/pbn-export-cleaner)),
    2. [Scopus (SciVal)](https://www.scival.com/).
 2. presents the journal and conferences lists from Polish Ministry of Science and Higher Education.
 
